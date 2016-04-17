@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="1" author="Neuromancer56" web="https://www.youtube.com/channel/UCh44CAuKAM3ZS688x-l-odA" description="Rhythms I created using Percussion Studio">
+        <samples>
+                <!-- You can add a comment between these marks -->
+                <!--sample name="Doundoun spicy 1" start="DoundounSpicy1.ogg" loop="DoundounSpicy1.ogg" end="DoundounSpicy1.ogg" description="DoundounSpicy1" type="rhythm" tags="rhythm, doundoun, Percussion Studio"/-->
+				<sample name="Doundoun spicy 1" loop="DoundounSpicy1.ogg" description="DoundounSpicy1" type="rhythm" tags="rhythm, doundoun, Percussion Studio"/>
+				<sample name="oDjembe_mm2" loop="go4FullCC.ogg" description="oDjembe_mm2" type="rhythm" tags="rhythm, djembe, Percussion Studio"/>
+				<sample name="oDjembe2" loop="g2o4FullCC.ogg" description="oDjembe2" type="rhythm" tags="rhythm, djembe, Percussion Studio"/>
+				<sample name="oDjembe3" loop="g3o4FullCC.ogg" description="oDjembe3" type="rhythm" tags="rhythm, djembe, Percussion Studio"/>
+				<sample name="uDjembe1" loop="g1u.ogg" description="uDjembe1" type="rhythm" tags="rhythm, djembe, Percussion Studio"/>
+				<sample name="G1L4" loop="G1L4.ogg" description="G1L4" type="rhythm" tags="rhythm, djembe, Percussion Studio"/>
+				<sample name="LDjembe3" loop="G2L4.ogg" description="LDjembe3" type="rhythm" tags="rhythm, djembe, Percussion Studio"/>
+				<sample name="LDjembe1a" loop="G3L4.ogg" description="LDjembe1a" type="rhythm" tags="rhythm, djembe, Percussion Studio"/>
+				<sample name="LSangpanDoun" loop="gl4dana.ogg" description="L Sangpanpan Doundounba" type="rhythm" tags="rhythm, djembe, Percussion Studio"/>
+				<sample name="LCowBellHi" loop="gl4CowBellHi.ogg" description="gl4CowBellHi" type="rhythm" tags="rhythm, CowBell, Percussion Studio"/>
+				<sample name="LKenkeni" loop="gl4Kenkeni.ogg" description="LKenkeni" type="rhythm" tags="rhythm, kenkeni, Percussion Studio"/>
+				<sample name="LDjembe2" loop="LDejembe2.ogg" description="LDjembe2" type="rhythm" tags="rhythm, djembe, Percussion Studio"/>
+				<sample name="LDjembe1Clap" loop="LDjembe1Clap.ogg" description="LDjembe1Clap" type="rhythm" tags="rhythm, djembe, Percussion Studio"/>
+				<sample name="LDjembe1z" loop="LDjembe1z.ogg" description="LDjembe1z" type="rhythm" tags="rhythm, djembe, Percussion Studio"/>
+				<sample name="Drumset1" loop="Drumset1.ogg" description="Drumset1" type="rhythm" tags="rhythm, DrumSet, Percussion Studio"/>
+				<sample name="Drumset1a" loop="Drumset1a.ogg" description="Drumset1a" type="rhythm" tags="rhythm, DrumSet, Percussion Studio"/>
+				<sample name="DrumSet2" loop="DrumSet2.ogg" description="DrumSet2" type="rhythm" tags="rhythm, DrumSet, Percussion Studio"/>
+        </samples>
+</package>
