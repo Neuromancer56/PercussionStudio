@@ -20,5 +20,6 @@
 				<sample name="Drumset1" loop="Drumset1.ogg" description="Drumset1" type="rhythm" tags="rhythm, DrumSet, Percussion Studio"/>
 				<sample name="Drumset1a" loop="Drumset1a.ogg" description="Drumset1a" type="rhythm" tags="rhythm, DrumSet, Percussion Studio"/>
 				<sample name="DrumSet2" loop="DrumSet2.ogg" description="DrumSet2" type="rhythm" tags="rhythm, DrumSet, Percussion Studio"/>
+				<sample name="DrumSet12a" loop="DrumSet12a.ogg" description="DrumSet12a" type="rhythm" tags="rhythm, DrumSet, Percussion Studio"/>
         </samples>
 </package>
