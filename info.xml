@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package version="1" author="Neuromancer56" web="https://www.youtube.com/channel/UCh44CAuKAM3ZS688x-l-odA" description="Rhythms I created using Percussion Studio">
         <samples>
-                <!-- You can add a comment between these marks -->
+                <!-- You can add a comment between these marks-->
                 <!--sample name="Doundoun spicy 1" start="DoundounSpicy1.ogg" loop="DoundounSpicy1.ogg" end="DoundounSpicy1.ogg" description="DoundounSpicy1" type="rhythm" tags="rhythm, doundoun, Percussion Studio"/-->
 				<sample name="Doundoun spicy 1" loop="DoundounSpicy1.ogg" description="DoundounSpicy1" type="rhythm" tags="rhythm, doundoun, Percussion Studio"/>
 				<sample name="oDjembe_mm2" loop="go4FullCC.ogg" description="oDjembe_mm2" type="rhythm" tags="rhythm, djembe, Percussion Studio"/>
@@ -21,5 +21,8 @@
 				<sample name="Drumset1a" loop="Drumset1a.ogg" description="Drumset1a" type="rhythm" tags="rhythm, DrumSet, Percussion Studio"/>
 				<sample name="DrumSet2" loop="DrumSet2.ogg" description="DrumSet2" type="rhythm" tags="rhythm, DrumSet, Percussion Studio"/>
 				<sample name="DrumSet12a" loop="DrumSet12a.ogg" description="DrumSet12a" type="rhythm" tags="rhythm, DrumSet, Percussion Studio"/>
+				<sample name="uDjembe3" loop="uDjembe3.ogg" description="uDjembe3" type="rhythm" tags="rhythm, djembe, Percussion Studio"/>
+				<sample name="uSangpan" loop="uSangpan.ogg" description="uSangpan" type="rhythm" tags="rhythm, Sangpan, Percussion Studio"/>
+				<sample name="oSangpan" loop="oSangpan.ogg" description="oSangpan" type="rhythm" tags="rhythm, Sangpan, Percussion Studio"/>
         </samples>
 </package>
