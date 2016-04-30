@@ -24,5 +24,7 @@
 				<sample name="uDjembe3" loop="uDjembe3.ogg" description="uDjembe3" type="rhythm" tags="rhythm, djembe, Percussion Studio"/>
 				<sample name="uSangpan" loop="uSangpan.ogg" description="uSangpan" type="rhythm" tags="rhythm, Sangpan, Percussion Studio"/>
 				<sample name="oSangpan" loop="oSangpan.ogg" description="oSangpan" type="rhythm" tags="rhythm, Sangpan, Percussion Studio"/>
+				<sample name="shaker1" loop="shaker1.ogg" description="shaker1" type="rhythm" tags="rhythm, shaker, Percussion Studio"/>
+				<sample name="uDjembe3Slow" loop="uDjembe3Slow.ogg" description="uDjembe3Slow" type="rhythm" tags="rhythm, djembe, Percussion Studio"/>
         </samples>
 </package>
