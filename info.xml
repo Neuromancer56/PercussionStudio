@@ -3,7 +3,7 @@
         <samples>
                 <!-- You can add a comment between these marks-->
                 <!--sample name="Doundoun spicy 1" start="DoundounSpicy1.ogg" loop="DoundounSpicy1.ogg" end="DoundounSpicy1.ogg" description="DoundounSpicy1" type="rhythm" tags="rhythm, doundoun, Percussion Studio"/-->
-				<sample name="Doundoun spicy 1" loop="DoundounSpicy1.ogg" description="DoundounSpicy1" type="rhythm" tags="rhythm, doundoun, Percussion Studio"/>
+				<!--sample name="Doundoun spicy 1" loop="DoundounSpicy1.ogg" description="DoundounSpicy1" type="rhythm" tags="rhythm, doundoun, Percussion Studio"/-->
 				<sample name="oDjembe_mm2" loop="go4FullCC.ogg" description="oDjembe_mm2" type="rhythm" tags="rhythm, djembe, Percussion Studio"/>
 				<sample name="oDjembe2" loop="g2o4FullCC.ogg" description="oDjembe2" type="rhythm" tags="rhythm, djembe, Percussion Studio"/>
 				<sample name="oDjembe3" loop="g3o4FullCC.ogg" description="oDjembe3" type="rhythm" tags="rhythm, djembe, Percussion Studio"/>
@@ -26,5 +26,7 @@
 				<sample name="oSangpan" loop="oSangpan.ogg" description="oSangpan" type="rhythm" tags="rhythm, Sangpan, Percussion Studio"/>
 				<sample name="shaker1" loop="shaker1.ogg" description="shaker1" type="rhythm" tags="rhythm, shaker, Percussion Studio"/>
 				<sample name="uDjembe3Slow" loop="uDjembe3Slow.ogg" description="uDjembe3Slow" type="rhythm" tags="rhythm, djembe, Percussion Studio"/>
+				<sample name="oDjembe_mm2Slow" loop="oDjembe_mm2Slow.ogg" description="oDjembe_mm2Slow" type="rhythm" tags="rhythm, djembe, Percussion Studio"/>
+				<sample name="LDjembe1aSlow" loop="LDjembe1aSlow.ogg" description="LDjembe1aSlow" type="rhythm" tags="rhythm, djembe, Percussion Studio"/>
         </samples>
 </package>
