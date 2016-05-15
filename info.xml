@@ -28,5 +28,6 @@
 				<sample name="uDjembe3Slow" loop="uDjembe3Slow.ogg" description="uDjembe3Slow" type="rhythm" tags="rhythm, djembe, Percussion Studio"/>
 				<sample name="oDjembe_mm2Slow" loop="oDjembe_mm2Slow.ogg" description="oDjembe_mm2Slow" type="rhythm" tags="rhythm, djembe, Percussion Studio"/>
 				<sample name="LDjembe1aSlow" loop="LDjembe1aSlow.ogg" description="LDjembe1aSlow" type="rhythm" tags="rhythm, djembe, Percussion Studio"/>
+				<sample name="oSangpanSlow" loop="oSangpanSlow.ogg" description="oSangpanSlow" type="rhythm" tags="rhythm, Sangpan, Percussion Studio"/>
         </samples>
 </package>
